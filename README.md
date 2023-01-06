@@ -2,6 +2,7 @@
 
 go-flare is a modified version of [avalanchego@v1.7.18](https://github.com/ava-labs/avalanchego/releases/tag/v1.7.18) + [coreth@v0.8.16](https://github.com/ava-labs/coreth/releases/tag/v0.8.16) that incorporates the Flare Time Series Oracle (FTSO) and State Connector. 
 
+
 ## System Requirements
 - go version 1.18.5
 - gcc, g++ and jq
